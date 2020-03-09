@@ -1,5 +1,6 @@
-package com.springframework.msscbeerservice.domain;
+package com.springframework.msscbeerservice.bootstrap;
 
+import com.springframework.msscbeerservice.domain.Beer;
 import com.springframework.msscbeerservice.repositories.BeerRepository;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.stereotype.Component;
@@ -47,7 +48,7 @@ public class BeerLoader implements CommandLineRunner {
                     .price(new BigDecimal("11.95"))
                     .build()
             );
-            //System.out.println("Loaded Beers " + beerRepository.count());
+            System.out.println("Loaded Beers " + beerRepository.count());
         }
     }
 }
