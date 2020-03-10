@@ -1,0 +1,11 @@
+/home/terselich/Programming/Java/MSSC brewery/mssc-beer-service/src/main/java/com/springframework/msscbeerservice/web/mappers/DateMapper.java
+/home/terselich/Programming/Java/MSSC brewery/mssc-beer-service/src/main/java/com/springframework/msscbeerservice/domain/Beer.java
+/home/terselich/Programming/Java/MSSC brewery/mssc-beer-service/src/main/java/com/springframework/msscbeerservice/web/controller/BeerController.java
+/home/terselich/Programming/Java/MSSC brewery/mssc-beer-service/src/main/java/com/springframework/msscbeerservice/web/controller/MVCExceptionHandler.java
+/home/terselich/Programming/Java/MSSC brewery/mssc-beer-service/src/main/java/com/springframework/msscbeerservice/web/model/BeerDTO.java
+/home/terselich/Programming/Java/MSSC brewery/mssc-beer-service/src/main/java/com/springframework/msscbeerservice/repositories/BeerRepository.java
+/home/terselich/Programming/Java/MSSC brewery/mssc-beer-service/src/main/java/com/springframework/msscbeerservice/MsscBeerServiceApplication.java
+/home/terselich/Programming/Java/MSSC brewery/mssc-beer-service/src/main/java/com/springframework/msscbeerservice/web/mappers/BeerMapper.java
+/home/terselich/Programming/Java/MSSC brewery/mssc-beer-service/src/main/java/com/springframework/msscbeerservice/bootstrap/BeerLoader.java
+/home/terselich/Programming/Java/MSSC brewery/mssc-beer-service/src/main/java/com/springframework/msscbeerservice/web/model/BeerPagedList.java
+/home/terselich/Programming/Java/MSSC brewery/mssc-beer-service/src/main/java/com/springframework/msscbeerservice/web/model/BeerStyleEnum.java

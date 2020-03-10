@@ -1,0 +1,14 @@
+com/springframework/msscbeerservice/web/model/BeerStyleEnum.class
+com/springframework/msscbeerservice/web/mappers/BeerMapper.class
+com/springframework/msscbeerservice/web/controller/BeerController.class
+com/springframework/msscbeerservice/web/model/BeerDTO$BeerDTOBuilder.class
+com/springframework/msscbeerservice/web/model/BeerPagedList.class
+com/springframework/msscbeerservice/domain/Beer.class
+com/springframework/msscbeerservice/bootstrap/BeerLoader.class
+com/springframework/msscbeerservice/web/model/BeerDTO.class
+com/springframework/msscbeerservice/repositories/BeerRepository.class
+com/springframework/msscbeerservice/web/mappers/BeerMapperImpl.class
+com/springframework/msscbeerservice/web/mappers/DateMapper.class
+com/springframework/msscbeerservice/domain/Beer$BeerBuilder.class
+com/springframework/msscbeerservice/MsscBeerServiceApplication.class
+com/springframework/msscbeerservice/web/controller/MVCExceptionHandler.class
